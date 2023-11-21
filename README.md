@@ -39,7 +39,9 @@ einops==0.3.2
 scikit-learn==1.0.1
 tqdm==4.62.3
 h5py==3.6.0
+torch-cluster
 ```
+Install torch-cluster using `pip install --verbose --no-cache-dir torch-cluster` [[https://pytorch-geometric.readthedocs.io/en/1.3.2/notes/installation.html]([https://github.com/luost26/score-denoise](https://pytorch-geometric.readthedocs.io/en/1.3.2/notes/installation.html))]
 Also, for denoising we use score based denoising, install their packages to run this code (please follow [score-denoise](https://github.com/luost26/score-denoise))
 <!-- * Ins -->
 
