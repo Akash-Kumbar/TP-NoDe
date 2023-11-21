@@ -42,7 +42,7 @@ h5py==3.6.0
 torch-cluster
 ```
 Install torch-cluster using `pip install --verbose --no-cache-dir torch-cluster` [[https://pytorch-geometric.readthedocs.io/en/1.3.2/notes/installation.html](https://pytorch-geometric.readthedocs.io/en/1.3.2/notes/installation.html)]
-<br>
+<br><br><br>
 Also, for denoising we use score based denoising, install their packages to run this code (please follow [score-denoise](https://github.com/luost26/score-denoise))
 <!-- * Ins -->
 
