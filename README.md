@@ -1,7 +1,7 @@
 # TP-NoDe
 Code for ICCVW-2023 accepted paper TP-NoDe: Topology aware Progressive Noising and Denoising of Point Clouds
 
-### [Akash Kumbar](https://akash-kumbar.github.io/), Tejas Anvekar, Tulasi Amitha Vikrama, Ramesh Ashok Tabib, Uma Mudenagudi
+### [Akash Kumbar](https://akash-kumbar.github.io/), [Tejas Anvekar](https://tejasanvekar.github.io/), Tulasi Amitha Vikrama, Ramesh Ashok Tabib, Uma Mudenagudi
 
 <div align="left">
 <a><img src="./assets/Images/cevi_logo.png"  height="70px" ></a>
