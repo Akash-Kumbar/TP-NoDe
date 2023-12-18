@@ -1,4 +1,4 @@
-echo preparing output for paper
+## echo preparing output for paper
 echo On PUGAN dataset
 
 echo Adding Gaussian BQ 0.5 256
