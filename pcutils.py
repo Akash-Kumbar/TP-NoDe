@@ -231,7 +231,7 @@ def convertToPatchDAKNN(xyz, min_k = 64, max_k = 512, seed_k = 3):
 
 def readOff(path, n):
     meshD = o3d.io.read_triangle_mesh(path) 
-    pcd = meshD.sample_points_uniformly(n)
+    pcd = meshD.sample_points_poisson_disk(n)
     xyz = np.array(pcd.points, dtype=np.float32)
 
     return xyz
